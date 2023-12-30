@@ -26,7 +26,7 @@ Pengembang perangkat lunak dengan minat pada:
 
 ## Statistik GitHub
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Juanhulu&show_icons=true&theme=radical)
 
 ## Kontak Saya 📫
 
