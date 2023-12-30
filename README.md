@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="1000" height="400" src="https://raw.githubusercontent.com/Juanhulu/Juanhulu/main/COVER/Cover.png">
-</p>
 <h1 align="center">
   <b>Hello Programmers!<b> <a href="https://www.facebook.com/juan.hulu.XD" target="blank">Juan</a> Was Here
 </h1>
